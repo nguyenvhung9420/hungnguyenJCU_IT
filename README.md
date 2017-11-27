@@ -1,2 +1,1 @@
-# hungnguyenJCU_IT
-For Studying Git and GitHub
+# This is the first GIT
